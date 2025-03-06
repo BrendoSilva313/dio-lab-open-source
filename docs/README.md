@@ -1,4 +1,4 @@
-### Olá, eu sou [Seu Nome]! 👋
+### Olá, eu sou Brendo Silva Parente! 👋
 
 Sou formando no curso **Superior de Sistemas Para Internet**, apaixonado por tecnologia e sempre em busca de novos desafios no mundo do desenvolvimento web e UX Design.
 
